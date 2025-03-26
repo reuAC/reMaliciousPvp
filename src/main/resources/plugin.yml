@@ -1,0 +1,9 @@
+name: reMaliciousPvp
+version: '${project.version}'
+main: org.reuac.remaliciouspvp.reMaliciousPvp
+api-version: '1.17'
+commands:
+  remaliciouspvp:
+    description: "remaliciouspvp"
+    permission: remaliciouspvp.main
+    aliases: rempvp
