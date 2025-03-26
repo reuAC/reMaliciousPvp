@@ -1,5 +1,5 @@
 # reMaliciousPvp
-使用一定的机制防止恶意Pvp
+使用机制防止恶意Pvp
 
 ## 介绍
 该插件适用于Spigot1.8及以上。  
